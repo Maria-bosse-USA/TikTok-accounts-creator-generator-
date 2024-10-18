@@ -14,6 +14,8 @@ device creator exe
 
 contact telegram https://t.me/mariabosser
 
+# telegram chanel https://t.me/githubtooul
+
 # TikTok Account Creator
 
 -Futures: None ShadowBan Device Registration Captcha Solver All Algorithm Updates API (Web/Android/iOS) TikTok Lite API Automatic Email Confirmation 100% Request None Selenium Other APIs (Like/Follow/Comment...)
@@ -61,3 +63,5 @@ Contact us on Telegram https://t.me/mariabosser
 device creator exe
 
 # контакт Telegram https://t.me/mariabosser
+
+# telegram chanel https://t.me/githubtooul
